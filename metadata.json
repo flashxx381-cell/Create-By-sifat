@@ -1,0 +1,6 @@
+{
+  "name": "Noor Shield",
+  "description": "নূর শিল্ড - একটি প্রিমিয়াম ইসলামিক অ্যাপ যাতে রয়েছে সঠিক নামাজের সময়সূচি, আল কুরআন, হাদিস, তসবিহ, কিবলা কম্পাস এবং একটি এআই ইসলামিক অ্যাসিস্ট্যান্ট।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
